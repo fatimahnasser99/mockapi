@@ -110,43 +110,6 @@
     "video": "https://youtu.be/OGoaV6TiAxM",
     "summary": "Moving admin dashboard from monolithic to microservice architecture.",
     "date_added": "Tue Aug 17 2021 13:29:24 GMT+0300 (Eastern European Summer Time)"
-  },
-    {
-    "logo": "https://topinterns.io/img/top-interns-logo.svg",
-    "company_name": "TopInterns",
-    "project_type": "capstone",
-    "screenshots": "https://topinterns.io/projects/admin-dashboard",
-    "heading": "Admin Dashboard",
-    "tech_stack": [
-      [
-        "Saleha",
-        "Omar",
-        "Marcelino"
-      ]
-    ],
-    "quotes": {
-      "quote1": {
-        "name_role": "Mohammed Ehsan Ullah Khan",
-        "quote_message": "This is a great opportunity",
-        "photo_url": "https://topinterns.io/img/ehsan.png"
-      }
-    },
-    "team_members": {
-      "student1": {
-        "fullname": "Mohammed Ehsan Ullah Khan",
-        "social_profile": "https://www.linkedin.com/in/hala-suliman-ab2087139/",
-        "photo_url": "https://topinterns.io/img/ehsan.png",
-        "email": "email@email.com"
-      }
-    },
-    "execution_details": [
-      "string"
-    ],
-    "live_project_link": "http://website-9nvjfuv.s3-website.us-east-1.amazonaws.com/",
-    "code_link": "https://github.com/Mohammed-Ehsan02/twitter-clone",
-    "video": "https://youtu.be/OGoaV6TiAxM",
-    "summary": "Moving admin dashboard from monolithic to microservice architecture.",
-    "date_added": "Tue Aug 17 2021 13:29:24 GMT+0300 (Eastern European Summer Time)"
   }
 ]
 }
