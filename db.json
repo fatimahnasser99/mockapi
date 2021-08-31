@@ -14,15 +14,15 @@
         "Marcelino"
       ]
     ],
-    "quotes": {
-      "quote1": {
+    "quotes": [
+      {
         "name_role": "Mohammed Ehsan Ullah Khan",
         "quote_message": "This is a great opportunity",
         "photo_url": "https://topinterns.io/img/ehsan.png"
       }
-    },
+    ],
     "team_members": [
-      0 : {
+      {
         "fullname": "Mohammed Ehsan Ullah Khan",
         "social_profile": "https://www.linkedin.com/in/hala-suliman-ab2087139/",
         "photo_url": "https://topinterns.io/img/ehsan.png",
@@ -52,15 +52,15 @@
         "Marcelino"
       ]
     ],
-    "quotes": {
-      "quote1": {
+   "quotes": [
+      {
         "name_role": "Mohammed Ehsan Ullah Khan",
         "quote_message": "This is a great opportunity",
         "photo_url": "https://topinterns.io/img/ehsan.png"
       }
-    },
+    ],
    "team_members": [
-      0 : {
+       {
         "fullname": "Mohammed Ehsan Ullah Khan",
         "social_profile": "https://www.linkedin.com/in/hala-suliman-ab2087139/",
         "photo_url": "https://topinterns.io/img/ehsan.png",
@@ -90,15 +90,15 @@
         "Marcelino"
       ]
     ],
-    "quotes": {
-      "quote1": {
+    "quotes": [
+      {
         "name_role": "Mohammed Ehsan Ullah Khan",
         "quote_message": "This is a great opportunity",
         "photo_url": "https://topinterns.io/img/ehsan.png"
       }
-    },
+    ],
     "team_members": [
-      0 : {
+       {
         "fullname": "Mohammed Ehsan Ullah Khan",
         "social_profile": "https://www.linkedin.com/in/hala-suliman-ab2087139/",
         "photo_url": "https://topinterns.io/img/ehsan.png",
